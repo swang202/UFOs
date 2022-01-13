@@ -12,7 +12,7 @@ We first created an introduction of the project in HTML.
 
 We used JavaScript to created filter tables in HTML. By typing filter information in the placeholder, the data table on the right will automatically update.
 
-![Filter_table] (https://github.com/swang202/UFOs/blob/main/static/images/filter_table.png?raw=true)
+![Filter_table](https://github.com/swang202/UFOs/blob/main/static/images/filter_table.png?raw=true)
 
 ### Summary
 
