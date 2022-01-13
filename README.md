@@ -2,10 +2,19 @@
 
 ### Overview of Project
 
+The goal of this project is to provide easily find information about UFO Sightings using JavaScript and HTML.
 
 ### Results: 
 
-We used JavaScript to created filter tables in HTML
+We first created an introduction of the project in HTML.
+
+![Intro_image](https://github.com/swang202/UFOs/blob/main/static/images/intro_page.png?raw=true)
+
+We used JavaScript to created filter tables in HTML. By typing filter information in the placeholder, the data table on the right will automatically update.
+
+![Filter_table Image] (https://github.com/swang202/UFOs/blob/main/static/images/filter_table.png?raw=true)
+
+
 
 ### Summary
 
