@@ -15,7 +15,6 @@ We used JavaScript to created filter tables in HTML. By typing filter informatio
 ![Filter_table Image] (https://github.com/swang202/UFOs/blob/main/static/images/filter_table.png?raw=true)
 
 
-
 ### Summary
 
 Although this html provide a good tool to filter data for tailored imformation, there are some drawbacks might hurt the user experiences.
